@@ -1,7 +1,7 @@
 # Daily Log
 
 ## Day 1
-Status:
+Status: Completed
 
 Link: https://anuradhasivasubramanian.github.io/Tribute_page/
 
