@@ -8,9 +8,9 @@ Link: https://anuradhasivasubramanian.github.io/Tribute_page/
 Lesson Learned: Finish your work by 6.00 pm!
 
 ## Day 2
-Status:
+Status: Completed
 
-Link:
+Link: https://anuradhasivasubramanian.github.io/Survey_form/
 
 Lesson Learned: 
 
