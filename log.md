@@ -3,9 +3,9 @@
 ## Day 1
 Status:
 
-Link:
+Link: https://anuradhasivasubramanian.github.io/Tribute_page/
 
-Lesson Learned: 
+Lesson Learned: Finish your work by 6.00 pm!
 
 ## Day 2
 Status:
