@@ -15,9 +15,9 @@ Link: https://anuradhasivasubramanian.github.io/Survey_form/
 Lesson Learned: 
 
 ## Day 3
-Status:
+Status: Completed
 
-Link:
+Link: https://anuradhasivasubramanian.github.io/landing_page/
 
 Lesson Learned: 
 ## Day 4
