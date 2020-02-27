@@ -21,9 +21,9 @@ Link: https://anuradhasivasubramanian.github.io/landing_page/
 
 Lesson Learned: 
 ## Day 4
-Status:
+Status: Completed
 
-Link:
+Link: https://anuradhasivasubramanian.github.io/Technical-Documentation/.
 
 Lesson Learned: 
 
